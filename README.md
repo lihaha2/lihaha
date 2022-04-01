@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lihaha2
-- 👀 I’m interested in JasS
-- 🌱 I’m currently learning ReactJS, NextJS, Express
+- 👋 Hi, I’m Mikhail Likhachev
+- 👀 I’m interested in Frontend oriented technologies && Mobile development
+- 🌱 I’m currently learning JS TS
 - 📫 You can find me in Telegram - <a href="https://t.me/FluffyToken">@FluffyToken</a>
 
 <!---
